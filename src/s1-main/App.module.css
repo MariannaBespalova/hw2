@@ -3,9 +3,16 @@
 }
 
 .hw {
-
+    padding: 20px 60px;
+    border-bottom: 1px solid #D9D9D9;
 }
 
 .hwTitle {
-
+    margin-top: 60px;
+    padding-left: 60px;
+    padding-bottom: 10px;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 27px;
+    border-bottom: 1px solid #D9D9D9;
 }
