@@ -36,6 +36,7 @@ const Stand = () => {
                             )
                             setValue('')
                         }}
+                        spanClassName={error ? 's.error': ''}
                     />
                 </div>
             </div>
